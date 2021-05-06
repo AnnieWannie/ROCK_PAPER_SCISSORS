@@ -69,6 +69,7 @@ def print_welcome(): #Prints a welcome statement
     print('rock beats scissors')
     print('scissors beats paper')
     print('paper beats rock')
+    print('Try your best for a perfect score! :)')
     print('----------------------------------------------')
     print('')
 
